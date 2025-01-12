@@ -1,5 +1,7 @@
 # NtfsVolumeWatch
 
+Note: This is a managed C++ library, for use with .NET Core
+
 This library uses NTFS USN Journal records to capture various file system events:
 https://learn.microsoft.com/en-us/windows/win32/api/winioctl/ni-winioctl-fsctl_query_usn_journal
 
